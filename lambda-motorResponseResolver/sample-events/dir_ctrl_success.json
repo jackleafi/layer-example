@@ -1,0 +1,7 @@
+{
+    "session_id": "session-1234567890",
+    "action": "1",
+    "result": "0",
+    "topic": "control/test-device-id/motor/rsp/",
+    "deviceId": "test-device-id"
+}

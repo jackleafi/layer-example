@@ -1,0 +1,17 @@
+{
+  "name": "lambda-motorchange",
+  "version": "1.0.0",
+  "description": "[[LS-165]](https://leafi.atlassian.net/browse/LS-165) Setup Lambda Functions as Data Resolver to Connect Internal Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-appsync": "^4.1.8",
+    "aws-sdk": "^2.1246.0",
+    "cross-fetch": "^3.1.5",
+    "graphql-tag": "^2.12.6"
+  }
+}
